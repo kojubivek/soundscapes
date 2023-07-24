@@ -4,7 +4,7 @@ const TitleContainer = styled.div``;
 
 const Title = styled.h2`
   text-align: center;
-  font-size: 200px;
+  font-size: 15vw;
   cursor: default;
 `;
 
