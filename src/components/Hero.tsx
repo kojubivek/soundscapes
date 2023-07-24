@@ -1,4 +1,3 @@
-import React from "react";
 import { styled } from "styled-components";
 import MainImg from "../assets/A trip to Sunshine (Original) (1).png";
 
