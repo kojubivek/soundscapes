@@ -18,7 +18,7 @@ const Title = styled.h3`
 export const Footer = () => {
   return (
     <Container>
-      <Title>&copy; SoundSacpes</Title>
+      <Title>&copy; SoundScapes</Title>
     </Container>
   );
 };
